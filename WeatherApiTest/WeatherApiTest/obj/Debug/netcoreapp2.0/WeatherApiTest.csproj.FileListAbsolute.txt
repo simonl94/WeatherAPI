@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\bin\Debug\netcoreapp2.0\WeatherApiTest.deps.json
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\bin\Debug\netcoreapp2.0\WeatherApiTest.runtimeconfig.json
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\bin\Debug\netcoreapp2.0\WeatherApiTest.runtimeconfig.dev.json
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\bin\Debug\netcoreapp2.0\WeatherApiTest.dll
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\bin\Debug\netcoreapp2.0\WeatherApiTest.pdb
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.AssemblyInfo.cs
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.dll
+C:\Users\Simon\Documents\WeatherAPI\WeatherApiTest\WeatherApiTest\obj\Debug\netcoreapp2.0\WeatherApiTest.pdb
